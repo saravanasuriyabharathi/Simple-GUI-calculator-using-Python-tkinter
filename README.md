@@ -1,14 +1,13 @@
 Prerequisites
   Python 3.x installed on your system.
+  
  **How to Run the code**
  Fist install all library which is given in **requirement.txt**  
- Then open the below **calculator.py** path which is shown in the screenshort and open comment prompt in that folder.
- 
+ Then open the **calculator.py** Run. 
+ else open comment prompt in that folder.
  **Run the calculator**:python calculator.py
  
- ![image](https://github.com/user-attachments/assets/5cdb56c2-0b38-42a1-b529-955d739a05b4)
 
- 
 
 **How to Use**
 
